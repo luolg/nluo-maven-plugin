@@ -1,0 +1,15 @@
+<plugin>
+    <groupId>com.luolg</groupId>
+    <artifactId>nluo-maven-plugin</artifactId>
+    <version>0.0.3-SNAPSHOT</version>
+    <executions>
+        <execution>
+            <goals>
+                <goal>bad</goal>
+            </goals>
+            <configuration>
+                <country>aaaa</country>
+            </configuration>
+        </execution>
+    </executions>
+</plugin>
